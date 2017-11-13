@@ -1,1 +1,3 @@
-alert("Hello World")
+let name = prompt("What is your name?", "your name...")
+
+alert(name)
